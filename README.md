@@ -46,7 +46,7 @@ Used Snorkel's weak supervision framework to automatically label a custom spam d
 - Ham detected: 8
 
 ### Output
-- File: `Untitled.ipynb` — Snorkel spam tutorial notebook
+- File: `01_spam_tutorial_custom_dataset.ipynb` — Snorkel spam tutorial notebook
 
 ---
 
